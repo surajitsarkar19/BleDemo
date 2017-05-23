@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bitcanny/AndroidStudioProjects/BLEDemo/app/build/intermediates/res/merged/debug/menu/peripheral.xml",
+        "source": "/home/bitcanny/AndroidStudioProjects/BLEDemo/app/src/main/res/menu/peripheral.xml"
+    },
+    {
+        "merged": "/home/bitcanny/AndroidStudioProjects/BLEDemo/app/build/intermediates/res/merged/debug/menu/scanning.xml",
+        "source": "/home/bitcanny/AndroidStudioProjects/BLEDemo/app/src/main/res/menu/scanning.xml"
+    }
+]
